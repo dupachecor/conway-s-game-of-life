@@ -1,6 +1,6 @@
 # conway's life game in python
-### el juego de la vida conway
-Duvan Felipe Pacheco
+### Juego de la vida conway
+Duvan Felipe Pacheco Rodriguez
 27/03/2024
 
 **"El Juego de la Vida"** es un modelo matemático y un autómata celular creado por el matemático británico John Conway en 1970. Aunque se llama un juego, en realidad no tiene jugadores activos. En cambio, es un modelo que simula la evolución de células en una cuadrícula bidimensional, siguiendo reglas simples.
