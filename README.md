@@ -1,5 +1,5 @@
-# conway-s-game-of-life
-## conway's life game in python
+# conway's life game in python
+### el juego de la vida conway
 Duvan Felipe Pacheco
 27/03/2024
 
